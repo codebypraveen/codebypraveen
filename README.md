@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Praveen Prakash </h1>
 
 <p align="center">
-I share knowledge through my code, articles, posts, and projects 💙.
+I share knowledge through my code, articles, posts, and projects.
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praveenprakash)
